@@ -190,7 +190,7 @@ March 1995
 - Source archives: https://www.atariarchives.org/cfn/05/07/0042.php
 - Languages: BASIC
 
-# Indirect contributions
+## Indirect contributions
 
 ### pat
 - Project description: Pat is a cross platform Winlink client with basic messaging capabilities.
