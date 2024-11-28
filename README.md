@@ -104,7 +104,7 @@ April 1997 - June 1997
 
 ## atari800
 September 1996 - October 1996
-- Source archive: https://atari800.github.io/ ( was: http://www.signus.demon.co.uk/david/atari/atari.html )
+- Source archive: https://atari800.github.io/ <!-- ( was: http://www.signus.demon.co.uk/david/atari/atari.html ) -->
 - Credited as: Maximum Entropy
 - Credits:
   - https://github.com/atari800/atari800/blob/231a72df3709be5d88bf1639bcfb4f3259c9fa41/DOC/CREDITS
@@ -131,13 +131,6 @@ September 1996 - October 1996
   - various fixes for curses mode
 - Languages: C
 
-## GNU tar
-March 1995
-- Source archive: https://ftp.gnu.org/gnu/tar/tar-1.12.tar.gz
-- Credited as: maximum entropy
-- Credits: https://github.com/Distrotech/tar/commit/1da46c233dc3b44e472a41c8e8e781c3c72bbc88
-- Languages: C
-
 ## ew-too/summink
 April 1995 - 2003
 - Project description: Summink is an open-source talker server based on the ew-too engine, designed to facilitate the creation and management of interactive, text-based worlds and environments.
@@ -145,16 +138,16 @@ April 1995 - 2003
 - Ran a highly-customized version: https://github.com/n2qz/ds (private repo)
 - Languages: C
 
-## Morse Code decoder
-September 1994
-- Project description: Takes input from a Morse Code key and converts it to readable text.
-- Role: Original author
-- Source archives: https://www.atariarchives.org/cfn/05/07/0042.php
-- Languages: BASIC
+## GNU tar
+March 1995
+- Source archive: https://ftp.gnu.org/gnu/tar/tar-1.12.tar.gz
+- Credited as: maximum entropy
+- Credits: https://github.com/Distrotech/tar/commit/1da46c233dc3b44e472a41c8e8e781c3c72bbc88
+- Languages: C
 
 ## MiNT/MiNTlibs
 1994 - 1997
-- Project description: MiNT (Mint Is Not TOS) is a multitasking operating system for Atari ST/TT computers, providing advanced features like preemptive multitasking, memory protection, and compatibility with UNIX-like environments.
+- Project description: MiNT (MiNT Is Not TOS) is a multitasking operating system for Atari ST/TT computers, providing advanced features like preemptive multitasking, memory protection, and compatibility with UNIX-like environments.
 - Role: Contributor, primary maintainer of MiNTlibs (GNU libc port)
 - Credited as: entropy@gnu.ai.mit.edu
 - Credits:
@@ -163,6 +156,13 @@ September 1994
   - http://www.umich.edu/~archive/atari/Mint/
   - https://github.com/freemint/freemint
 - Languages: C
+
+## Morse Code decoder
+1991 (Published September 1994)
+- Project description: Takes input from a Morse Code key and converts it to readable text.
+- Role: Original author
+- Source archives: https://www.atariarchives.org/cfn/05/07/0042.php
+- Languages: BASIC
 
 # Indirect contributions
 
