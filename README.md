@@ -1,14 +1,16 @@
 # n2qz
 
+Extensive contributor to FOSS projects across diverse domains, including operating systems, retrogaming, emulators, graphical user interfaces, multimedia, security tooling, and network communications.
+
 <details>
 
 <summary>Free and Open Source Software (FOSS) contributions</summary>
 
-# Free and Open Source Software (FOSS) contributions
+## Free and Open Source Software (FOSS) contributions
 
-## Batocera.linux https://batocera.org/
-June 2023 - present
-- Project description: Batocera.linux is an open-source Buildroot Linux operating system designed for retro gaming, providing a user-friendly interface and support for a wide range of gaming consoles and emulators.
+### Batocera.linux https://batocera.org/
+June 2023 - Present
+- Project description: Batocera.linux is an open-source Buildroot Linux operating system for retro gaming, with a user-friendly interface and support for a wide range of gaming consoles and emulators.
 - Role: Developer/Maintainer
 - Source archives: https://github.com/batocera-linux
 - Credited as: n2qz
@@ -18,16 +20,16 @@ June 2023 - present
   - https://github.com/batocera-linux/buildroot/pulls?q=is%3Apr+is%3Aclosed+author%3An2qz
 - Languages: Python, C++, bash, Buildroot
 
-## checkov 
+### checkov
 August 2020
 - Project description: Checkov is an open-source static code analysis tool for identifying security and compliance issues in infrastructure-as-code (IaC) configurations, such as Terraform, CloudFormation, and Kubernetes.
 - Source archive: https://github.com/bridgecrewio/checkov
 - Credited as: n2qz
 - Credits: https://github.com/bridgecrewio/checkov/pull/499
-- Contributions: Web proxy support
+- Contributions: Added web proxy support
 - Languages: Python
 
-## pgmaze
+### pgmaze
 May 2018
 - Project description: pgmaze is a maze game written in Python, using the pygame library.
 - Role: Author (derived from several credited sources)
@@ -35,7 +37,7 @@ May 2018
 - Credited as: n2qz
 - Languages: Python
 
-## WiiMC
+### WiiMC
 March 2012
 - Project description: WiiMC is an open-source media center application for the Nintendo Wii, enabling playback of videos, music, and streaming content from various sources.
 - Source archive: https://github.com/dborth/wiimc
@@ -47,7 +49,7 @@ March 2012
   - Added a new "Through" setting for music playlists (patch by entropy)
 - Languages: C
 
-## WiiFlow
+### WiiFlow
 January 2012 - March 2012
 - Project Description: WiiFlow is an open-source USB loader for the Nintendo Wii, allowing users to load and organize games, homebrew, and multimedia from external storage with a sleek, customizable interface.
 - Source archive: https://github.com/Fledge68/WiiFlow_Lite
@@ -71,15 +73,15 @@ January 2012 - March 2012
   - Show an error message when parental unlock password is entered incorrectly.
   - Use homebrew icon.png to make rough but serviceable homebrew covers
 
-## nts_nys_traffic_routing
-2008 - present
+### nts_nys_traffic_routing
+2008 - Present
 - Project description: nts_nys_traffic_routing is a Docker container to serve a web page providing routing data for the ham radio National Traffic System in New York State.
 - Role: Author
 - Source archives: https://github.com/n2qz/nts_nys_traffic_routing
 - Credited as: n2qz
 - Languages: Perl, Docker
 
-## paclink-unix
+### paclink-unix
 November 2005 - October 2016
 - Project description: paclink-unix is a UNIX client interface to the Winlink 2000 email system for ham radio.
 - Role: Original author
@@ -90,7 +92,7 @@ November 2005 - October 2016
   - https://github.com/nwdigitalradio/paclink-unix
 - Languages: C
 
-## FreeTDS https://www.freetds.org/
+### FreeTDS https://www.freetds.org/
 August 2002 - January 2004
 - Project description: FreeTDS is a set of libraries for Unix and Linux that allows your programs to natively communicate with Microsoft SQL Server and Sybase databases.
 - Role: Developer/Maintainer
@@ -99,7 +101,7 @@ August 2002 - January 2004
 - Source archives: https://github.com/FreeTDS/freetds
 - Languages: C
 
-## NetBSD https://netbsd.org/
+### NetBSD https://netbsd.org/
 1997-1998
 - Project description: NetBSD is an open-source, Unix-like operating system known for its portability, security, and wide support for various hardware platforms.
 - Source archive: http://cvsweb.netbsd.org/
@@ -113,7 +115,7 @@ August 2002 - January 2004
   - Various bug fixes and minor features
 - Languages: C
 
-## xmame
+### xmame
 April 1997 - June 1997
 - Credited as: entropy
 - Credits
@@ -126,7 +128,7 @@ April 1997 - June 1997
   - Initial port to NetBSD
 - Languages: C
 
-## atari800
+### atari800
 September 1996 - October 1996
 - Source archive: https://atari800.github.io/ <!-- ( was: http://www.signus.demon.co.uk/david/atari/atari.html ) -->
 - Credited as: Maximum Entropy
@@ -155,21 +157,21 @@ September 1996 - October 1996
   - various fixes for curses mode
 - Languages: C
 
-## ew-too/summink
+### ew-too/summink
 April 1995 - 2003
 - Project description: Summink is an open-source talker server based on the ew-too engine, designed to facilitate the creation and management of interactive, text-based worlds and environments.
 - Source archive: https://github.com/talkersource/summink
 - Ran a highly-customized version: https://github.com/n2qz/ds (private repo)
 - Languages: C
 
-## GNU tar
+### GNU tar
 March 1995
 - Source archive: https://ftp.gnu.org/gnu/tar/tar-1.12.tar.gz
 - Credited as: maximum entropy
 - Credits: https://github.com/Distrotech/tar/commit/1da46c233dc3b44e472a41c8e8e781c3c72bbc88
 - Languages: C
 
-## MiNT/MiNTlibs
+### MiNT/MiNTlibs
 1994 - 1997
 - Project description: MiNT (MiNT Is Not TOS) is a multitasking operating system for Atari ST/TT computers, providing advanced features like preemptive multitasking, memory protection, and compatibility with UNIX-like environments.
 - Role: Contributor, primary maintainer of MiNTlibs (GNU libc port)
@@ -181,7 +183,7 @@ March 1995
   - https://github.com/freemint/freemint
 - Languages: C
 
-## Morse Code decoder
+### Morse Code decoder
 1991 (Published September 1994)
 - Project description: Takes input from a Morse Code key and converts it to readable text.
 - Role: Original author
@@ -190,13 +192,13 @@ March 1995
 
 # Indirect contributions
 
-## pat
+### pat
 - Project description: Pat is a cross platform Winlink client with basic messaging capabilities.
 - Source archive: https://github.com/la5nta/pat
 - Credited as: n2qz
 - Credits: https://github.com/la5nta/pat/blob/master/README.md
 
-## wl2k-go
+### wl2k-go
 - Project description: wl2k-go is a collection of Go packages implementing various parts needed to build a Winlink client.
 - Source archive: https://github.com/la5nta/wl2k-go
 - Credited as: n2qz
