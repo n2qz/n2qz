@@ -47,6 +47,30 @@ March 2012
   - Added a new "Through" setting for music playlists (patch by entropy)
 - Languages: C
 
+## WiiFlow
+January 2012 - March 2012
+- Project Description: WiiFlow is an open-source USB loader for the Nintendo Wii, allowing users to load and organize games, homebrew, and multimedia from external storage with a sleek, customizable interface.
+- Source archive: https://github.com/Fledge68/WiiFlow_Lite
+- Credited as: entropy
+- Credits: https://github.com/Fledge68/WiiFlow_Lite/blob/master/source/defines.h
+- Languages: C, C++
+- Contributions:
+  - Fix Issue 27:  "When in 'channel view' and wiiflow is locked the wrong icon is displayed"
+  - Comment out reload of IOS 58 before booting homebrew.  Stops random code dumps when booting HB.
+  - Ensure that long game titles are NUL-terminated
+  - Bug fix:  index for EXIT_TO_DISABLE changed, correct hard-coded value
+  - Allow installation of games with titles containing illegal filename characters
+  - Use LF carriage control in shell scripts to fix build under Linux
+  - Add a game config button (cfgg28) to toggle "custom" setting of channels
+  - Support custom titles for homebrew
+  - More cache overrides at startup, plus related debugging gprintfs
+  - Make debug message explicit about enabling or disabling IOS reload block
+  - Add option "update_cache" in GENERAL section, to force cache update at startup
+  - Allow display of homebrew while parental controls are enabled, if option "parental" is set in homebrew section of wiiflow.ini
+  - Restore code to hide game adult toggle and game settings button while parental controls enabled
+  - Show an error message when parental unlock password is entered incorrectly.
+  - Use homebrew icon.png to make rough but serviceable homebrew covers
+
 ## nts_nys_traffic_routing
 2008 - present
 - Project description: nts_nys_traffic_routing is a Docker container to serve a web page providing routing data for the ham radio National Traffic System in New York State.
