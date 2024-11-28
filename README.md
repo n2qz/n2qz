@@ -1,6 +1,10 @@
 # n2qz
 
-# Open source contributions
+<details>
+
+<summary>Free and Open Source Software (FOSS) contributions</summary>
+
+# Free and Open Source Software (FOSS) contributions
 
 ## Batocera.linux https://batocera.org/
 June 2023 - present
@@ -174,3 +178,4 @@ September 1994
 - Credited as: n2qz
 - Credits: https://github.com/la5nta/wl2k-go/blob/master/README.md
 
+</details>
